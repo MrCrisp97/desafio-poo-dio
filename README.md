@@ -13,7 +13,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 <br> *Aparelho Telefônico
 <br> Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
 <br> *Navegador na Internet
-<br>Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
+<br> Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 2. Implementar as classes e interfaces correspondentes em Java.
 
 ## DIAGRAMA UML
